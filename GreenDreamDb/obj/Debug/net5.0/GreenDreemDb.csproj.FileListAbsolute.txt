@@ -1,0 +1,12 @@
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\bin\Debug\net5.0\GreenDreemDb.deps.json
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\bin\Debug\net5.0\GreenDreemDb.dll
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\bin\Debug\net5.0\ref\GreenDreemDb.dll
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\bin\Debug\net5.0\GreenDreemDb.pdb
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\GreenDreemDb.csproj.AssemblyReference.cache
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\GreenDreemDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\GreenDreemDb.AssemblyInfoInputs.cache
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\GreenDreemDb.AssemblyInfo.cs
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\GreenDreemDb.csproj.CoreCompileInputs.cache
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\GreenDreemDb.dll
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\ref\GreenDreemDb.dll
+C:\projects\C#\rabitMQ\GreenDreem\GreenDreemDb\obj\Debug\net5.0\GreenDreemDb.pdb

@@ -1,0 +1,45 @@
+<div>
+  <div *ngIf="currentDevice.id" class="edit-form">
+    <h4>Device</h4>
+    <form>
+      <div class="form-group">
+        <label for="name">name</label>
+        <input
+          type="text"
+          class="form-control"
+          id="name"
+          [(ngModel)]="currentDevice.name"
+          name="title"
+        />
+      </div>
+      <div class="form-group">
+        <label for="description">Description</label>
+        <input
+          type="text"
+          class="form-control"
+          id="description"
+          [(ngModel)]="currentDevice.description"
+          name="description"
+        />
+      </div>
+    </form>
+
+    <button class="badge badge-danger mr-2" (click)="deleteDevice()">
+      Delete
+    </button>
+
+    <button
+      type="submit"
+      class="badge badge-success mb-2"
+      (click)="updateDevice()"
+    >
+      Update
+    </button>
+    <p>{{ message }}</p>
+  </div>
+
+  <div *ngIf="!currentDevice.id">
+    <br />
+    <p>Cannot access this device ...</p>
+  </div>
+</div>
